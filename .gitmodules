@@ -1,0 +1,12 @@
+[submodule "Paging"]
+	path = Paging
+	url = https://github.com/Q-rtix/Paging.git
+[submodule "RepositoryPattern"]
+	path = RepositoryPattern
+	url = https://github.com/Q-rtix/RepositoryPattern.git
+[submodule "Result"]
+	path = Result
+	url = https://github.com/Q-rtix/Results.git
+[submodule "EFCore"]
+	path = EFCore
+	url = https://github.com/Q-rtix/EFCore.git
